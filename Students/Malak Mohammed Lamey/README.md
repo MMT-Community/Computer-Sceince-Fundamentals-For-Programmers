@@ -2,29 +2,17 @@
 
 <div class="student-id" >
 
-  <p style="font-size:1.3rem;">
-    <span style="font-family: Helvetica;
-      font-size: 1.4rem;
-      font-weight: 600;
-      color: lightgreen;" >Name</span>
+  <p>
+    <span >Name</span>
     Malak Mohammed Lamey
   </p>
-  <p style="font-size:1.3rem;">
-
-    <span style="font-family: Helvetica;
-      font-size: 1.4rem;
-      font-weight: 600;
-      color: lightgreen;" >Age</span>
+  <p>
+    <span >Age</span>
     20
-
   </p>
-
-  <p style="font-size:1.3rem;">
-    <span style="font-family: Helvetica;
-      font-size: 1.4rem;
-      font-weight: 600;
-      color: lightgreen;" >Degree</span>
+  <p>
+    <span >Degree</span>
     83.33%
   </p>
-
+Here is some text with a `<span style="color: #ff0000;">changed color</span>`.
 </div>
