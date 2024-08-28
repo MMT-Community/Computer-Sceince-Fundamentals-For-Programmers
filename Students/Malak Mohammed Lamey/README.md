@@ -2,17 +2,10 @@
 
 <div class="student-id" >
 
-  <p>
-    <span >Name</span>
-    Malak Mohammed Lamey
-  </p>
-  <p>
-    <span >Age</span>
-    20
-  </p>
-  <p>
-    <span >Degree</span>
-    83.33%
-  </p>
-Here is some text with a `<span style="color: #ff0000;">changed color</span>`.
+  <h3 >Name: Malak Mohammed Lamey</h3>
+  <h4>Age: 20</h4>
+  <h4>Region: Egypt/Cairo</h4>
+  <h4>Percentage: 83.33%</h4>
+  <h4>Degree: 50 Points</h4>
+
 </div>
