@@ -1,6 +1,7 @@
+# Student Certificate
+
 <style>
   .student-id {
-
 
     p {
       font-size:1.3rem;
@@ -13,12 +14,11 @@
       color: lightgreen;
       }
     }
-  }
+
+}
 </style>
-
-# Student Certificate
-
 <div class="student-id" >
+
   <p>
     <span class="main-col" >Name</span>
     Malak Mohammed Lamey
