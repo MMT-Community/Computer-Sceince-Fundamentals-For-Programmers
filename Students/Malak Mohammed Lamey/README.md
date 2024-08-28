@@ -1,34 +1,29 @@
 # Student Certificate
 
-<style>
-  .student-id {
-
-    p {
-      font-size:1.3rem;
-
-
-      .main-col{
-      font-family: Helvetica;
-      font-size: 1.4rem;
-      font-weight: 600;
-      color: lightgreen;
-      }
-    }
-
-}
-</style>
 <div class="student-id" >
 
-  <p>
-    <span class="main-col" >Name</span>
+  <p style="font-size:1.3rem;">
+    <span style="font-family: Helvetica;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: lightgreen;" >Name</span>
     Malak Mohammed Lamey
   </p>
-  <p>
-    <span class="main-col" >Age</span>
+  <p style="font-size:1.3rem;">
+
+    <span style="font-family: Helvetica;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: lightgreen;" >Age</span>
     20
+
   </p>
-  <p>
-    <span class="main-col" >Degree</span>
+
+  <p style="font-size:1.3rem;">
+    <span style="font-family: Helvetica;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: lightgreen;" >Degree</span>
     83.33%
   </p>
 
